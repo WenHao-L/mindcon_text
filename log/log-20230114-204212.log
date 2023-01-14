@@ -1,0 +1,16 @@
+[WARNING] ME(171241:281473890839232,MainProcess):2023-01-14-20:42:49.594.768 [mindspore/dataset/engine/datasets.py:1123] Dataset is shuffled before split.
+Train | Epoch 0: loss = 0.4505951911598057  ||  Valid | Epoch 0: loss = 0.32713546935054993, acc = 0.8675031565656566
+Train | Epoch 1: loss = 0.3232261955544546  ||  Valid | Epoch 1: loss = 0.3048547324207094, acc = 0.88833648989899
+Train | Epoch 2: loss = 0.2829878358291341  ||  Valid | Epoch 2: loss = 0.30539774977498585, acc = 0.8848642676767677
+Train | Epoch 3: loss = 0.25349713242673255  ||  Valid | Epoch 3: loss = 0.3113430639108022, acc = 0.8892045454545454
+Train | Epoch 4: loss = 0.2374024105729995  ||  Valid | Epoch 4: loss = 0.3104145448240969, acc = 0.882260101010101
+Train | Epoch 5: loss = 0.21749343882713998  ||  Valid | Epoch 5: loss = 0.3249419563346439, acc = 0.8857323232323232
+Train | Epoch 6: loss = 0.20547868306567144  ||  Valid | Epoch 6: loss = 0.33136317340864074, acc = 0.8848642676767677
+Train | Epoch 7: loss = 0.19477934073414896  ||  Valid | Epoch 7: loss = 0.32719820986191434, acc = 0.8857323232323232
+Train | Epoch 8: loss = 0.18737355605154843  ||  Valid | Epoch 8: loss = 0.329382308655315, acc = 0.8779198232323232
+Train | Epoch 9: loss = 0.17828936250759408  ||  Valid | Epoch 9: loss = 0.34960470348596573, acc = 0.8900726010101009
+Train | Epoch 10: loss = 0.1698405985031035  ||  Valid | Epoch 10: loss = 0.3648084368970659, acc = 0.8909406565656565
+Train | Epoch 11: loss = 0.16739871077142754  ||  Valid | Epoch 11: loss = 0.35364700771040386, acc = 0.8796559343434344
+Train | Epoch 12: loss = 0.16038010361326205  ||  Valid | Epoch 12: loss = 0.3729601196116871, acc = 0.8848642676767677
+Train | Epoch 13: loss = 0.16138851995785514  ||  Valid | Epoch 13: loss = 0.3636210482153628, acc = 0.8813920454545454
+Train | Epoch 14: loss = 0.1591600366904364  ||  Valid | Epoch 14: loss = 0.3665994575454129, acc = 0.8813920454545454
